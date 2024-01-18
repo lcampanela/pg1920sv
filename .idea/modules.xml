@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Console/Console.iml" filepath="$PROJECT_DIR$/Console/Console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game.iml" filepath="$PROJECT_DIR$/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objects/Objects.iml" filepath="$PROJECT_DIR$/Objects/Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stars/Stars.iml" filepath="$PROJECT_DIR$/Stars/Stars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trab2/Trab2.iml" filepath="$PROJECT_DIR$/Trab2/Trab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trab3/Trab3.iml" filepath="$PROJECT_DIR$/Trab3/Trab3.iml" />
+    </modules>
+  </component>
+</project>
